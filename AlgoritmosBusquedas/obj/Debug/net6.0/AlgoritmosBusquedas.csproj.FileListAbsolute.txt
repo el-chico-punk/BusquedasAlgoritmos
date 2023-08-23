@@ -1,0 +1,15 @@
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\bin\Debug\net6.0\AlgoritmosBusquedas.exe
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\bin\Debug\net6.0\AlgoritmosBusquedas.deps.json
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\bin\Debug\net6.0\AlgoritmosBusquedas.runtimeconfig.json
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\bin\Debug\net6.0\AlgoritmosBusquedas.dll
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\bin\Debug\net6.0\AlgoritmosBusquedas.pdb
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\obj\Debug\net6.0\AlgoritmosBusquedas.csproj.AssemblyReference.cache
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\obj\Debug\net6.0\AlgoritmosBusquedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\obj\Debug\net6.0\AlgoritmosBusquedas.AssemblyInfoInputs.cache
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\obj\Debug\net6.0\AlgoritmosBusquedas.AssemblyInfo.cs
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\obj\Debug\net6.0\AlgoritmosBusquedas.csproj.CoreCompileInputs.cache
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\obj\Debug\net6.0\AlgoritmosBusquedas.dll
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\obj\Debug\net6.0\refint\AlgoritmosBusquedas.dll
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\obj\Debug\net6.0\AlgoritmosBusquedas.pdb
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\obj\Debug\net6.0\AlgoritmosBusquedas.genruntimeconfig.cache
+C:\Users\Juana\Documents\Angel\Trabajo\Uni\AlgoritmosBusquedas\AlgoritmosBusquedas\AlgoritmosBusquedas\obj\Debug\net6.0\ref\AlgoritmosBusquedas.dll
